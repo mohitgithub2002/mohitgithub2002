@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Goyal
-- 👀 I’m interested in app development and competitive programing
-- 🌱 I’m currently learning c,c++,kotlin language
+- 👀 I’m interested in web3 development
+- 🌱 I’m currently learning c,c++,solidity language
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/mohit-goyal-98b468205 
 
 <!---
